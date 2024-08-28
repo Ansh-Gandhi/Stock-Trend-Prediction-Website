@@ -12,7 +12,7 @@ To view the web app ensure you have installed python as well as the following li
 - keras
 - streamlit
 
-Once that is complete, ensure you are in the proper directory in your terminal and type the following command: streamlit run app.py. This will open a new tab in your browser for you to view the app and interact with it.
+Once that is complete, clone the repository and ensure you are in the proper directory in your terminal. Then type the following command: streamlit run app.py, as this will open a new tab in your browser for you to view the app and interact with it.
 
 View a preview of the web app in the following video:
 
