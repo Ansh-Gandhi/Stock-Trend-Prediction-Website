@@ -17,4 +17,4 @@ Once that is complete, ensure you are in the proper directory in your terminal a
 View a preview of the web app in the following video:
 
 
-<video controls src="Recording 2024-08-28 163859.mp4" title="Title"></video>
+<video controls src="web_app_preview.mp4" title="Title"></video>
