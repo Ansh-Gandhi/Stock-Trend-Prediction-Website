@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import yfinance as yf
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from keras.models import load_model
 import streamlit as st
@@ -104,4 +103,3 @@ st.pyplot(fig3)
 
 # Custom Footer
 st.markdown("<br><br><hr>", unsafe_allow_html=True)
-st.markdown("<center>Developed by Ansh Gandhi</center>", unsafe_allow_html=True)
