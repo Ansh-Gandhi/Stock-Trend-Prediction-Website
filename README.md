@@ -17,4 +17,4 @@ Once that is complete, ensure you are in the proper directory in your terminal a
 View a preview of the web app in the following video:
 
 
-<video controls src="web_app_preview.mp4" title="Title"></video>
+[![Watch the video](https://raw.githubusercontent.com/Ansh-Gandhi/Stock-Trend-Prediction-Website/main/thumbnail.png)](https://www.youtube.com/watch?v=yN3aDZd_ymM)
